@@ -1,0 +1,9 @@
+.add_todo {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+h1, h5 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
